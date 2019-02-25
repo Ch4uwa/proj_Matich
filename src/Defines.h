@@ -5,5 +5,6 @@
 #define LOG(x) std::cout << x << "\n"
 #else
 #define LOG(x)
+#endif // LOG
 
-#endif
+#endif // DEFINE_H
